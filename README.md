@@ -1,2 +1,6 @@
-# WhyMan
-scripts
+# Test
+깃허브 사용법
+
+원하는 내용
+
+소개글
